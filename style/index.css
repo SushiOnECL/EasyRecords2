@@ -247,8 +247,8 @@
     position: relative;
     display: flex;
     z-index: 1;
-    width: 40%;
-    height: 50vh;
+    width: 50%;
+    height: fit-content;
     left: 50%;
     transform: translateX(-50%);
 }
