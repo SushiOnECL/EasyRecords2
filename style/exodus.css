@@ -314,7 +314,7 @@
     background-color: rgba(0, 0, 0, 0.050);
     left: 40%;
     transform: translateX(-50%);
-    background-image: (url(images/vynil-capes/R-1905180-1308591698.jpg));
+    background-image: url('style/images/vinyl-capes/R-1905180-1308591698.jpg');
     background-size: cover; /* Ensure the image covers the entire container */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent repeating */
