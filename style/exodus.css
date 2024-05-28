@@ -316,6 +316,7 @@
     transform: translateX(-50%);
     justify-content: center;
     align-items: center;
+    overflow: hidden; 
 }
 
 .album-cover-i {
@@ -323,6 +324,7 @@
     max-height: 100%;
     max-width: 100%
     transform: translateX(-41.5%);
+    object-fit: cover;   
 }
 
 .album-info {
