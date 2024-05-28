@@ -315,12 +315,13 @@
     left: 40%;
     transform: translateX(-50%);
     justify-content: center;
+    align-items: center;
 }
 
 .album-cover-i {
     position: relative;
-    height: 100%;
-    left: 50%;
+    max-height: 100%;
+    max-width: 100%
     transform: translateX(-41.5%);
 }
 
