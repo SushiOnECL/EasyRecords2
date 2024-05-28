@@ -321,8 +321,8 @@
     position: relative;
     max-height: 100%;
     max-width: 100%
-    transform: translateX(-41.5%);
-    object-fit: cover;   
+    left: 50%;
+    transform: translateX(-50%);  
 }
 
 .album-info {
