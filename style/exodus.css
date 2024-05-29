@@ -395,6 +395,14 @@
     background-image: url(images/LIKE-VINYL-FILLEDv2.png);
 }
 
+.album-stock {
+    position: absolute;
+    top: 75%;
+    left: 5%;
+    font-size: 16px;
+    font-style: italic;
+}
+
 .album-desc {
     position: relative;
     margin-top: 5%;
